@@ -1,2 +1,2 @@
 # Nextjs-Dashboard
-this is
+this is the training dashboard
